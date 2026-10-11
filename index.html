@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blooket PDF to CSV Converter</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="app">
+    <header class="app__header">
+      <h1>Blooket PDF &rarr; CSV</h1>
+      <p class="app__subtitle">
+        Upload a Blooket <strong>&ldquo;Question Set &ndash; Answer Key&rdquo;</strong> PDF and download
+        a Kahoot/Gimkit-ready CSV. Everything runs in your browser &mdash; nothing is uploaded.
+      </p>
+    </header>
+
+    <section class="warning" role="note">
+      <strong>Heads up about multiple correct answers</strong>
+      <p>
+        The answer key marks correct answers in <strong>bold</strong>. Some questions have
+        more than one bolded answer. This tool keeps the <strong>first</strong> bolded answer as
+        correct and moves the rest into the incorrect columns. See the report below the results
+        for every affected question.
+      </p>
+    </section>
+
+    <section class="uploader">
+      <label id="dropzone" class="dropzone" for="fileInput" tabindex="0">
+        <input id="fileInput" type="file" accept="application/pdf,.pdf" hidden />
+        <span class="dropzone__icon" aria-hidden="true">&#128196;</span>
+        <span class="dropzone__title">Choose a PDF or drop it here</span>
+        <span class="dropzone__hint">Blooket answer-key PDFs work best</span>
+      </label>
+    </section>
+
+    <section id="status" class="status" hidden aria-live="polite"></section>
+
+    <section id="results" class="results" hidden>
+      <div class="results__bar">
+        <span id="summary" class="summary"></span>
+        <button id="downloadBtn" type="button" class="btn btn--primary" disabled>
+          Download CSV
+        </button>
+      </div>
+
+      <div id="multiReport" class="report" hidden>
+        <h2 class="report__title"></h2>
+        <p class="report__lead">
+          These questions had more than one bolded (correct) answer. Only the first is used as the
+          correct answer; the others are treated as incorrect for import.
+        </p>
+        <ol id="multiList" class="report__list"></ol>
+      </div>
+
+      <div id="thinReport" class="report report--muted" hidden>
+        <h2 class="report__title"></h2>
+        <p class="report__lead">
+          These questions have fewer than four answers in the PDF, so the CSV leaves the extra
+          answer columns blank.
+        </p>
+        <ul id="thinList" class="report__list"></ul>
+      </div>
+    </section>
+
+    <footer class="app__footer">
+      <p>CSV columns: Question, Correct Answer, Incorrect Answer 1&ndash;3.</p>
+    </footer>
+  </main>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

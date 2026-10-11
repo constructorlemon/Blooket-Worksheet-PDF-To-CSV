@@ -1,0 +1,101 @@
+﻿Question,Correct Answer,Incorrect Answer 1,Incorrect Answer 2,Incorrect Answer 3
+Who is the creator of ChatGPT?,OpenAI,Windows,Anthropic,Google
+What is an API Key for?,To access AI,For spoofing,The API lock,Tracking my APIs
+What is iteration?,The process of improving on a prototype,The name of an Elohim,A waterfall model,A waste of time and money
+Which of these is NOT part of Iteration?,Tasting,Testing,Improving,Repeating
+Which of these steps is involved in Iteration?,Testing,Gaming,Crying,Shouting
+"When testing a project, what should you look for?","What is confusing, boring, unnecessary, and ugly",Harambe,Moths in your CPU fan,The answer to life
+How much should you Iterate on a project?,Until you are happy,Never (just get it perfect in one prompt),"Three times, max",Just once
+Which of these is NOT a way to take a screenshot?,Triple Click,PrtScn Button,Snipping Tool (Windows),Shift + ⌘ + 4 (Mac)
+What does LLM stand for?,Large Language Model,"Live, Laugh, Moo",Little Leprechaun Man,Large Laughing Machine
+What is Tokenization (used by LLMs)?,Turning a prompt into Numbers for LLMs,The process of saving middle earth,Turning a prompt into Poker Chips for Las Vegas,The future of thought
+What is a word embedding? (Used by LLMs),A web of connections that group similar words together,The raw dataset used to train LLMs,The technique LLMs use to write code,A word stuck inside a wall
+Can ChatGPT use languages other than English?,Yes,可 以,Oui,हाँ
+What are LLM's trained on?,Lots and lots of text,Atmospheric Noise,Alien Communications,Exclusively Shakespeare
+Why do LLMs need to Tokenize text?,So they can understand your words with math,Need is a strong word,To use extra bandwidth,Because they feel like it
+Which of these is NOT an LLM?,My Mom,Claude,ChatGPT,Deepseek
+Will AI take over the world?,Maybe,Yes,All of the Above,No
+How do LLMs operate?,Next Word Prediction,One tired australian man,Magic,Caffeine
+What is an AI Hallucination?,When an AI generates an untrue response,A myth - AI is always right,Wake up wake up wake up wake up wake up wake up wake up wake up,The quenchiest!
+Is AI perfect?,"No, it can hallucinate","Yes, and it loves me back","Mostly, except for math questions","Yes, it knows exactly what I want"
+Who is responsible for what the AI makes?,Me,My Instructor,ChatGPT,Sam Altman
+What is NOT a reason LLMs hallucinate?,"LLMs have a ""lying"" quota to prevent people from trusting it too much","LLMs use next-word prediction, not ""thinking""",They were trained to please,Inaccurate training data
+Is it possible to make good websites with AI?,"Yes, if you know what you're doing",It's impossible - AI only makes slop,,
+Is AI a tool?,Yes,"No, I am",,
+Which of these is necessary for a good prompt?,Context,Fast Typing Speed,Flowery Language,A Pure Heart
+"What is the ""instruction"" in a prompt?",What you want the LLM to do,Next-word-prediction,The information the LLM needs to know,The invisible thinking portion the LLM uses
+"What is ""context"" in a prompt?",The info the LLM needs to know to do it's job,What you want the LLM to do for you,The mechanism by which the AI tests your worthiness,# Vibes
+A good prompt has these two things...,Instruction & Context,Sugar & Spice,Romeo & Juliet,Power & Drive
+Context is most similar to:,"Who, What, Where, When, Why, and How",The Loch-Ness Monster,An instruction,A rose by any other name
+What happens if you don't give an LLM context?,It will try it's best and get stuff wrong,You unlock an easter egg,It will throw a SyntaxError,It will understand you perfectly
+Which of these is the WORST prompt?,The site is ugly.,The colors are to garish - please use more neutral colors,Change the font in the title to Consolas,"The images are bad, replace them with real ones"
+Which of these is the BEST prompt?,Remove the header section from the site.,still bad,"ChatGPT, fix it.",Color bad me sad
+Imagine you're stuck. Which of these prompts would most likely help you out?,Analyze my site like you're a professional web designer and suggest some improvements to help with the user experience.,I HATE YOU CHATGPT GRRRR,"Dear GPT, I am stuck. Help.",the site is uggos
+What is the difference between instruction and context?,Instruction is what to do. Context is what needs to be known.,Instruction is the why. Context is the how.,Only instruction is necessary,"One is a vegetable, the other is a fruit"
+What does it mean to have a clear prompt?,"being specific about the task, the audience, and any constraints.",short,having a super long prompt,A prompt with no hidden agendas
+What's better - a clear prompt or a vague prompt?,Clear,Vague,Neither. Blank prompts win hands down,It's not just clear -- it's vague
+What is HTML used for in a website?,The raw text - the skeleton,The interactivity and programming - the brain/muscles,The formatting and styles - the skin,The image hosting - the memory
+What is CSS used for in a website?,The formatting and styles - the skin,The interactivity and programming - the brain/muscles,The raw text - the skeleton,The image hosting - the memory
+What is Javascript used for in a website?,The interactivity and programming - the brain/muscles,The image hosting - the memory,The formatting and styles - the skin,The raw text - the skeleton
+What does CSS stand for?,Cascading Style Sheets,Complex Style Scripts,Creepy Spooky Styles,Calcified Super Sheets
+What type of file is an index.html file?,HTML,JS,LMAO,HTNL
+What do we use to publish a project online?,Github,Apache Tomcat,Porkbun,Node
+Which of these is the correct process to upload a project to Github?,New Repository > Upload Files > Settings > Pages > Branch = Main > Actions,New Repository > Settings > Security > Publish Page,Github.com > ??? > Profit,New Repository > Actions > Upload Automatically
+Which of these is what we create on Github?,Github Repository,Github Servlet,Github Bucket,Github Datastore
+Is it possible to update a project once you've uploaded it to Github Pages?,Yes,No,,
+What is a product designer?,Someone who designs products,A social construct,A slop factory,Someone who products designs
+What is a designer?,Person who makes designs to accomplish goals,A person who manufactures things in a factory,A Louis Vuitton Handbag,An oppressed class
+You're learning to use AI tools. But really you're learning how to...,Be a Designer!,Make Spaghetti!,Flatter Your Instructor!,Weld metal!
+Which of these are the steps used for design?,"Plan It, Build It, Test It, Fix It","Measure it, Measure it, Cut it","Stir It, Sift It, Bake It, Cool It, Eat it","Think about it, Create It, Give up"
+"Can you skip any of these steps (Plan it, Build It, Test It, Fix It)","Yes, but you'll get a bad result","Yes, you can skip the testing step and go straight to fixing",You can skip one to save time and still get good results,"No, you'll explode if you do"
+What does UX stand for?,User Experience,Ultra eXtreme,Ursine Xavier,User Interface
+What does UI stand for?,User Interface,You and I,User Experience,User Interest
+What do you NOT do in the Plan It step?,Create a prototype,Understand the user and draft the UI/UX,Read through the project brief and understand the requirements,Figure out the scope of the project
+"What is ""scoping"" a project?",Deciding what and what not to build,Getting a headshot,Coming up with a cost estimate and hourly wage,Deciding if the project is worth doing in the first place
+What is NOT a reason to keep project scope minimal?,Makes it so you don't need to test anything later,Helps you focus on the priorities,Makes sure the project is achievable,Prevents you from creating unnecessary things
+"In the Test It section, should you only look for bugs?","No, you should also look things to improve and remove",Yep yep yep,Bugs? Eeeek where???,Yes - it's okay if it's ugly as long as it works
+"What ""User Experience"" even mean?",The actual experience of a user using the website,the aesthetics of a site,Interviews conducted with users after testing,users don't matter what are you talking about
+Who are you designing for?,The User,The Sponsors,My (many) Adoring Fans,Myself
+Which of these is not a web component?,Villain Corner,Header,Cards,Hero Section
+"If something on the website isn't useful, should you remove it?",Yes,No,,
+What web component is also called a Navbar?,Header,Grid,Spacing,Footer
+"Which web component can be used to display related information together,? (e.g. title + description)",Cards,Hero Section,image,Modal
+What is the web component used for popups?,Modals,Navbar/Header,Hero section,Grid
+What is the web component you click on?,Buttons,Image,Spacing,Badges
+What web component is used to take the user to different pages?,Hyperlink,Modal,List,grid
+What web component lines up items in rows and columns (like tiles)?,Grid,Modal,Cards,Spacing
+What web component stacks items into a single row or column?,Lists,Footer,Forms,Grids
+What web component has sets of questions and inputs the user can submit?,Forms,List,Hero Section,Modal
+What web component is the first big thing you see on a website? (i.e. the headline,Hero Section,Banner,Modal,Header
+What web component is used to share urgent alerts at the top of the screen?,Banner,Header,Image,Footer
+What web component is used to add a small label on an item?,Badge,Image,Card,Hyperlink
+What web component sits at the bottom of a site with extra information?,Footer,Tung Tung,Bigfoot,Header
+What is the layout of a website?,how we visually organize the content on our website,The length of a website,The span of a website,The normalized dot vector of the length and span of a website
+We plan out UX because we...,Want to control what the user does,Want to make sure our site is visually stunning,Have to,Need to organize everything on our site
+Planning out the UX requires you to...,step into the user's shoes,Enter a fugue state,Come into contact with the divine UX gods,Understand how lizards would experience the site
+"What is an example of bad UX, but good UI?",A beautiful site nobody can figure out how to use,A disorganized website with terrible graphics,The perfect website,A super easy to use site that looks ugly
+What is an example of good UX and bad UI?,A easy to use website with only text and no fonts or colors,A website all about your instructor,A epic unicorn themed site that's about doing your taxes but the buttons are all hidden,
+What are fonts?,Different styles of text to display,The things that make noises in your head,A structure which shoots out water,The size of text
+What is Visual Hierarchy in UI?,Having things change size/visibility based on importance,Having everything be random sizes,Having everything be the same size,A class dynamic
+"What is the importance of a ""Clickable Look"" in UI?",To make sure the users know what can be clicked on,Styles to make something look like you can click on it,To keep up with the newest web design trends,Keeps your users on their toes
+What is the importance of spacing in UI?,Prevents the site from being cluttered and hard to understand,Keeps the web components from falling in love,Social distancing,Ensures all the important content can fit without scrolling
+What is alignment in UI?,Making sure things line up neatly,"Whether the UI is Lawful Evil, Chaotic Good, etc.",Making sure all the web components believe in the same thing,Lines we draw on the page to guide the user
+What is the importance of consistency in UI?,Prevents the site from being confusing and difficult to understand,Consistency is all about breaking up patterns to make a more interesting site,Keeps users guessing about what each thing does,Gives the page a good texture when you eat it
+What is consistency in UI?,Making sure things fit into a reliable pattern,Having different colors for contrast,Consistency... mmmm,Confusing users with random changes
+Is color important for designing sites?,"Yes, color is used to accent and convey meaning","Yes, colors confuse hackers and give your site more security","No, colors make sites less alive and boring","No, most people are actually colorblind"
+What is Highlighting in UI?,making the most important action stand out,Adding dynamic lighting effects to your site,Hiding text by making it the background color,Marking certain text segments as important
+Why is readability important for UI/UX?,Ensures people can actually read the text on the site,It's not. Most internet users are robots who can read any text,Ensures that google translate works correctly on your site,"Users actually hate readability, they love squinting hard"
+What is Readability in UI?,How easy it is to read the text on your page,The placement of your site on the New York Best Sellers List,How interesting the content of your site is,How reliable your site is
+What is Local Storage used for?,Saving user info on the user's computer locally,Keeping data on different tabs separate,Storing data on the server,Tracking which users are visiting your site
+Is Local Storage deleted when the user closes the site?,No,Yes,,
+Are cookies the same as Local Storage?,No,Yes,,
+Can a static site export .mp4 and image files?,Yes,No,,
+What are Guardrails in UX?,Limiting the user's options and adding undo to prevent user error,Limitations put on the user to make the experience worse,Suggestions of how to use the product,A construction used to reduce car crash severity
+What are affordances in UX/UI?,What the user can actually tell they can do from a glance,Everything the user can do on a website,Hidden features nobody can figure out,A confusing layout
+What are URL parameters used for?,Storing information in a shareable link,Sending passwords around,Confusing your FBI agent,Creating invalid URLs
+What is not an example of a retention mechanic?,Skeuomorphic visualizations,Notifications and reminders,A shop/reward system,Daily Activities
+What is Feedback in UI/UX?,The immediate response of using your site,Messages users leave about your site,Limitations to prevent users from messing up,Yelp reviews
+What is an example of weak Feedback in UI/UX?,Pressing a button doesn't change it,The score changing to red and flashing after reaching a new high score,A sound and wobble after pressing a button,A progress bar after submitting a form
+What is an example of strong Feedback in UI/UX?,An enemy that plays a sound effect and shakes the screen when defeated,"A setting requiring to press ""submit"" each time to see what it changes",A 5 second delay on a button doing something,An enemy that increases your score by 1 and disappears when defeated
+Can you test out the mobile version of your site while on a computer?,"Yes, through the Inspect view","Sometimes, but only if you are using a mac","No, it's impossible","Yes, if you turn your computer sideways"
+What is the most important part of making a good website?,Focusing on the User Experience,Speed. Kachow!,Adding in as many keywords as possible,42
